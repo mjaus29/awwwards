@@ -20,8 +20,6 @@ Many developers believe that visually impressive, award-winning websites require
 
 The project showcases advanced frontend techniques while maintaining excellent performance across all devices. It recreates the immersive experience of Zentry.com, a metagame platform with unique animations and interactions, while ensuring performance and responsiveness aren't compromised.
 
-Immersive animations, interactive elements, and responsive design that works on all devices.
-
 **Technologies Used:** React, Vite, GSAP, Tailwind CSS
 
 ## 📖 Table of Contents
